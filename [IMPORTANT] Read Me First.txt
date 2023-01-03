@@ -1,0 +1,18 @@
+1. Install Modules
+
+Open CMD
+Type this and press Enter
+
+*(If Na install na, wag na ulitin)
+pip install mysqlclient
+pip install mysql-connector-python
+pip install SQLAlchemy
+pip install tkcalendar
+
+
+2. Create Database
+Open XAMPP
+START - Apache, MySQL
+Go to browser http://localhost/phpmyadmin/
+Create New Database named "fruitas"
+
